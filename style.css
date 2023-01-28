@@ -1,6 +1,6 @@
 @keyframes backgroundAnimation {
   0% {
-      background-color: black;
+    background-color: black;
   }
   25% {
     background-color: crimson;
@@ -12,7 +12,7 @@
     background-color: goldenrod;
   }
   100% {
-      background-color: blue;
+    background-color: blue;
   }
 }
 
